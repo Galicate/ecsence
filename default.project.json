@@ -1,0 +1,20 @@
+{
+    "name": "ecsence",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "Ecsence": {
+                "$path": "src/Ecsence",
+                "Packages": {
+                  "$path": "Packages"
+                }
+            },
+            "Test": {
+                "$path": "test"
+            }
+        }
+    }
+}
